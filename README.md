@@ -20,7 +20,9 @@
 2. Select "Backups"
 3. Restore the backup. Use these settings:
 
+![image](https://github.com/user-attachments/assets/22d33eb9-de37-4c0f-a941-7e608d2b0f7f)
 
+Change the VMID, Storage, and hostname to your preferred option.
 
 # Remove USB
 
