@@ -32,8 +32,8 @@ Change the VMID, Storage, and hostname to your preferred option.
 
 ## 2. Mount the USB:
 ### Replace `/mnt/usb/` with the path you created in [step 2](https://github.com/The-Dark-Mode/Proxmox-USB/blob/main/README.md#2-mount-the-usb).
-1. Unmount the drive: `/mnt/usb/`
-2. (Optional) Remove the directory: `rm -rf /dev/usb/`
+1. Unmount the drive: `umount /mnt/usb/`
+2. (Optional) Remove the directory: `rm -rf /mnt/usb/`
 
 ## 3. Remove the USB
 ### Ensure that the USB is not flashing before you remove it from the port.
