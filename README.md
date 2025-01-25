@@ -29,7 +29,7 @@
 2. Select "USB" and press "Remove".
 
 ## 2. Mount the USB:
-### Replace `/mnt/usb/` with the path you created in [step 2]([url](https://github.com/The-Dark-Mode/Proxmox-USB/blob/main/README.md#2-mount-the-usb)).
+### Replace `/mnt/usb/` with the path you created in [step 2](https://github.com/The-Dark-Mode/Proxmox-USB/blob/main/README.md#2-mount-the-usb).
 1. Unmount the drive: `/mnt/usb/`
 2. (Optional) Remove the directory: `rm -rf /dev/usb/`
 
