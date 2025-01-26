@@ -6,7 +6,6 @@
 ### Replace `/mnt/usb/` with your preferred path.
 1. Create a directory: `mkdir -p /mnt/usb/`
 2. Mount the drive: `mount /dev/disk/by-id/usb-Generic_Flash_Disk_10243111000013-0\:0 /mnt/usb/`
-3. Verify it mounted by running `/mnt/usb/status.sh`. If the file does not exist, then you may not have mounted it correctly.
 
 ## 3. Add storage to Proxmox:
 1. Go to Datacenter > Storage
